@@ -42,6 +42,3 @@ Interactive Power BI dashboard includes:
 - Line charts for time-based trends
 - Filters for dynamic exploration
 
----
-
-## 📁 Project Structure
